@@ -62,6 +62,11 @@ DESCRIPTION
 
     *   "nkeytail"
 
+    By default *all functions are exported*. If you don't like that, then
+    please specify an explicit list of functions to import, a la:
+
+      use Sort::Key::Top::PP 'top';
+
 BUGS
     Please report any bugs to
     <http://rt.cpan.org/Dist/Display.html?Queue=Sort-Key-Top-PP>.
