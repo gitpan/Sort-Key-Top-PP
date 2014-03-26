@@ -4,12 +4,19 @@ Sort-Key-Top-PP
 Created:      2012-12-11
 Home page:    <https://metacpan.org/release/Sort-Key-Top-PP>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=Sort-Key-Top-PP>
-Maintainer:   Toby Inkster <mailto:tobyink@cpan.org>
+Maintainer:   Toby Inkster (TOBYINK) <tobyink@cpan.org>
 
-0.002  2012-12-11
+0.003	2014-03-26
 
- - (Packaging) Oops! List Exporter::Everything as a dep.
+ [ Packaging ]
+ - use Dist::Inkt
 
-0.001  2012-12-11  # Initial release
+ [ Other ]
+ - Updated: Exporter::Everything -> Exporter::Shiny.
 
+0.002	2012-12-11
 
+ [ Packaging ]
+ - Oops! List Exporter::Everything as a dep.
+
+0.001	2012-12-11	Initial release
